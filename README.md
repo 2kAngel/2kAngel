@@ -11,6 +11,8 @@
 
 - 👨‍💻 Buscando prácticas en **Salamanca/Teletrabajo**
 
+- 🎯 Con el objetivo de ser **Analista de Datos** o similar
+
 - 📧 Correo de contacto **acamarara.inf@upsa.es**
 
 <h3 align="left">Conecta conmigo:</h3>
