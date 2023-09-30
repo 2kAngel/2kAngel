@@ -9,8 +9,6 @@
 
 - 💻 Realizando cursos en **Udemy**
 
-- 👨‍💼🤝 Linkedin [https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BKFfo9gLvQy2KL%2FUvUz8sXQ%3D%3D](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BKFfo9gLvQy2KL%2FUvUz8sXQ%3D%3D)
-
 - 👨‍💻 Buscando prácticas en **Salamanca/Teletrabajo**
 
 - 📧 Correo de contacto **acamarara.inf@upsa.es**
