@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente acabando **Ingeniería Informática**
 
-- 🌱 A punto de comenzar **Experto en Big Data**
+- 🌱 Realizando practicas de **SAP / SAC** en **VIEWNEXT**
 
 - 💻 Realizando cursos en **Udemy**
 
