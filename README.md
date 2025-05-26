@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2kangel&label=Profile%20views&color=0e75b6&style=flat" alt="2kangel" /> </p>
 
-- 🔭 Actualmente acabando **Ingeniería Informática**
+- 🔭Ingeniero Informáatico
 
 - 👨‍💻 Trabajando en proyecto de **SAP / SAC** en **VIEWNEXT**
 
-- 💻 Realizando cursos en **Udemy**
+- 💻 Realizando Master en Big Data y Analytics en UNIR
   
 - 🎯 Con el objetivo de ser **Analista de Datos** o similar
 
-- 📧 Correo de contacto **acamarara.inf@upsa.es**
+- 📧 Correo de contacto **acamarara.inf@upsa.es | angelcamararamos@hotmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
