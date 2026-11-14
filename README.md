@@ -5,13 +5,13 @@
 
 - 🔭Ingeniero Informático
 
-- 👨‍💻 Trabajando en proyecto de **SAP / SAC** en **VIEWNEXT**
+- 👨‍💻 Trabajando en proyecto de **SAP / SAC** en **GREEN CODE**
 
-- 💻 Realizando Master en Big Data y Analytics en UNIR
+- 💻 Master en Big Data y Analytics en UNIR
   
-- 🎯 Con el objetivo de ser **Analista de Datos** o similar
+- 🎯 **Analista de Datos**
 
-- 📧 Correo de contacto **acamarara.inf@upsa.es | angelcamararamos@hotmail.com**
+- 📧 Correo de contacto **angelcamararamos@hotmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
