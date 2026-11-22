@@ -5,7 +5,7 @@
 
 - 🔭Ingeniero Informático
 
-- 👨‍💻 Trabajando en proyecto de **SAP / SAC** en **GREEN CODE**
+- 👨‍💻 Trabajando en proyecto de **SAP BW Migration** en **GREEN CODE**
 
 - 💻 Master en Big Data y Analytics en UNIR
   
